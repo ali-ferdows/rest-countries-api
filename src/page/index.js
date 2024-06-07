@@ -1,0 +1,1 @@
+export { default as CountryInfo } from './country-info/CountryInfo';
